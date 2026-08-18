@@ -1,6 +1,7 @@
-# 🐋 Whale Harness Launcher（鲸鱼悬浮窗）
+# 🐋 Deepseek Harness Launcher（鲸鱼悬浮窗）
 
 一个 Windows 桌面悬浮窗，实时反映 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的工作状态，同时作为进入 Harness 的快捷入口。
+<img width="145" height="182" alt="image" src="https://github.com/user-attachments/assets/a8c8ee4c-b96c-4295-80e5-b250a031f062" />
 
 ## ✨ 功能特性
 
