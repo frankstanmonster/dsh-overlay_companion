@@ -108,6 +108,7 @@ powershell -ExecutionPolicy Bypass -File .\uninstall.ps1
 
 **Q：悬浮窗没出现？**
 A：确认 Harness 已在运行（`http://127.0.0.1:3080` 可访问）。`start-whale.ps1` 会等待端口最多 120s。也可查看 `src\launcher.log` 排查。
+大部分情况下都是系统开机自启任务过多导致需要排队。
 
 **Q：更换动图后重启又变回原图？**
 A：更换的动图会复制到 `src\` 覆盖原文件并持久生效；若直接改动了 `src\working.gif`，重启后仍会使用新文件。
